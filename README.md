@@ -1,8 +1,8 @@
 # Kendall Ridge
 
-**`New Graduate from Western Carolina University`**
+**`Graduate Student in Data Science and AI at UNC Wilmington`**
 
-I am a Computer Information Systems graduate from Western Carolina University. Through this program, I have developed skills in Python, SQL, Tableau, Microsoft Azure, Excel, SQL Server Management Studio, and Access. I also serve as Kesem at WCU's chapter director, managing the 15 person executive board and other chapter logistics. I am interested in a role utilizing my skills in programming, data analysis and visualization, and problem solving.
+Current graduate student in Data Science at UNC Wilmington. Recent graduate from the Computer Information Systems program at Western Carolina University. Through this program, I have developed skills in Python, SQL, Tableau, Microsoft Azure, Excel, and Access. I also served as Kesem at WCU's chapter director, managing the 15 person executive board and other chapter logistics. I am interested in a role utilizing my skills in programming, data analysis and visualization.
 
 <p align="left">
       <a href="https://github.com/kendallridge?tab=followers">
